@@ -154,4 +154,6 @@ It's illegal to drink alcohol on the street! Cops aren't friendly too it either.
 - You don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
 
 # Contribute
-Make a pull request with your insight to help other developers succeed!
+Make a pull request to add your own unique insight to help other developers succeed.
+
+Better yet, fork it and create your own! 👏
