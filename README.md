@@ -52,7 +52,16 @@ You'll find plenty of backpackers in and around the CBD. This will be great to g
 #### Hotel
 You're living in comfort. Melbourne has a bunch of options. Check Agoda or your favourite website.
 ### Permanant
-Choose a place close to public transport and a supermarket: Coles or Woolworths. Recommended suburbs for a software developer will be inner-city: 
+Choose a place close to public transport a supermarket or shopping center. A controversial rule of thumb is the best suburbs work from the East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
+
+#### Sharehouse
+This is the most cost effective way to live. Jump on www.flatmates.com. I recommend buying their $35 2-month pack. It sounds like a ripoff but it'll get you ahead. They have a free offering if you're cheap otherwise use facebook marketplace. Be wary of dodgey housemates/ads. Always inspect the property and meet the housemates. You should find a private bedroom within 10km (inner-city) for around $1000/month. Some people take bonds. Go on the lease if you want to be safe. Avoid rough neighbourhoods.
+
+#### Rent
+Jump on www.realestate.com.au. This is a great option if you have a family, friend to share or just want to go it alone. You're guaranteed no bullshit. The agent will annoy you but hardly as much as a bad housemate. It will cost you $350+/month for a decent one-bedroom apartment. 
+
+#### Locations
+Inner-city suburbs are recommended for singles within 10km of the CBD. Go further out if you have a family.
 - CBD (small rooms, convenient)
 - Docklands (new, windy, no atmosphere)
 - Richmond (football types)
@@ -61,12 +70,7 @@ Choose a place close to public transport and a supermarket: Coles or Woolworths.
 - North Melbourne (Left wing)
 - South Melbourne (Right wing)
 - St. Kilda (all sorts/beach)
-- Further out and it'll become suburbia
-#### Sharehouse
-This is the most cost effective way to live. Jump on www.flatmates.com. I recommend buying their $35 2-month pack. It sounds like a ripoff but it'll get you ahead. They have a free offering if you're cheap otherwise use facebook marketplace. Be wary of dodgey housemates/ads. Always inspect the property and meet the housemates. You should find a private bedroom within 10km (inner-city) for around $1000/month. Some people take bonds. Go on the lease if you want to be safe. Avoid rough neighbourhoods.
-
-#### Rent
-Jump on www.realestate.com.au. This is a great option if you have a family, friend to share or just want to go it alone. You're guaranteed no bullshit. The agent will annoy you but hardly as much as a bad housemate. It will cost you $350+/month for a decent one-bedroom apartment. 
+- Everything else becomes suburbia
 
 ## Finding a Job
 If you haven't found one already don't worry. You're a software developer. There's plenty of roles and not enough developers.
