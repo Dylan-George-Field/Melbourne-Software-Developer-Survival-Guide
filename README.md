@@ -1,4 +1,4 @@
-# Melbourne Software Developer Survival Guide 🏕
+# Software Developer Survival Guide 🏕
 This guide will get you on your feet and prepare you to survive the urban wilderness.
 ## Welcome to Melbourne
 Melbourne is a wonderful place. The CBD (central business district) is where most of the action happens. The centre is around the Burke St/Swanston St and is 1 km around. 
