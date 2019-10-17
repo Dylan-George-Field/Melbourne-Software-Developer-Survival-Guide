@@ -148,5 +148,5 @@ It's illegal to drink alcohol on the street! Cops aren't friendly too it either.
 - Taxes are paid via the ATO (Australian Tax Office) after July 1st. You do this online. Ask your employer or tax-agent if you're unsure
 - You don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
 
-#Contribute
+# Contribute
 Make a pull request with your insight to help other developers succeed!
