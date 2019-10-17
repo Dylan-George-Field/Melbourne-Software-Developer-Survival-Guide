@@ -26,6 +26,8 @@ This is the highest value way to get to outer suburbs. All trains run from the C
 - Southern Cross
 - Melbourne Central Station 
 Peak times can be a pain at 8am - 9am/5pm - 6pm weekdays. You'll comforably get a seat otherwise. Trains run 24 hours on weekends. Payment is made with a contactless 'Myki' card. Purchase one at the station under the 'Metro' sign, a machine or from 7-11's and convenience stores. The card costs you $7 for an adult and the same for a day's worth of rides. There are concessions (cheaper) for students.
+
+Avoid being alone late at night at the end-of-the-line. Unless it's Sanderingham.
 #### Buses
 You'll find these anywhere there's no rail. They suck until you get another form of transport
 #### Car/Motorbike
@@ -37,7 +39,9 @@ Australian cars are the cheapest to run and maintain. Go to www.carsales.com/www
 - Mitsubishi Magna/380
 - Toyota Camry
 #### Bicycle
-If you live within 7km of the city this is the best, cleanest fastest and unsafe way to travel. Pickup a bike on Facebook Marketplace (via the app) for $150-$200. Get a bike lock or it will get stolen. Use lights at night and wear a helmet or you'll get a fine. Don't ride parallel to tram tracks and cross them carefully when wet. Stick to bike lanes and watch for opening doors.
+If you live within 7km of the city this is the best, cleanest fastest and unsafe way to travel. Pickup a bike on Facebook Marketplace (via the app) for $150-$200. Get a bike lock or it will get stolen. Use lights at night and wear a helmet or you'll get a fine. Stick to bike lanes and watch for opening doors.
+
+Beware of tram tracks.
 ## Finding a place to stay
 ### Temporary
 #### Airbnb
@@ -82,6 +86,17 @@ Try your luck and message around. You'll get a couple of messages a week with a 
 ### Company Career Boards
 Look in the sky and find the names of the major companies. Search their career pages.
 
+### Study/Workspaces
+You can pay for co-working space or take advantage of free offices everywhere.
+#### Melbourne State Library
+Free desks, electricity and wifi. Go to the 'dome' for a beautiful atmosphere. There's plenty of books to read and artifacts to look at. A coffee shop is at the end. It's the perfect free study spot. Open 10am - 9pm (Mon - Thrus), 10am - 6pm all others.
+#### Universities
+They're catered for students. Desks, electricity galore as well as access to the technical libraries. You can't rent as a public member but you can definitely pose as a student and use the facilites. RMIT is in the city. Walk right in. They're scattered throughout the city. Notable mentions: Melbourne Uni, Monash University, Swinburne, Deakin.
+#### Coffee Shops/Café
+Melbourne-ites are renowned coffee snobs. Embrace the culture, buy a coffee and ask if they have free wifi. Use your phone to tether/hot spot if they don't and sit there for hours. No one cares as long as the shop isn't full or it's Starbucks.
+#### McDonalds
+Worst case scenario. Free wifi and questionable food.
+
 ## Places to see and Do
 ### Sport
 Melbourne is the self-proclaimed sporting capital. The sports precinct near the suburb of Richmond hosts most events. A 20-minute walk from the CBD.
@@ -115,8 +130,23 @@ Weekends provide the best environment for transport and venues open. Most places
 - Fitzroy (Johnson St/Brunswick Rd)
 - St. Kilda (Fitzroy St/Acland St)
 - Swan St - Richmond
+- Casino - Open 24/7, seedy and expensive
 
-It's illegal to drink alcohol on the street! Cops aren't friendly too it either. You may smoke a cigarette near them. Don't try weed. It's not legal.. yet.
+It's illegal to drink alcohol on the street! Cops aren't friendly too it either. You may smoke a cigarette near them. Not weed. It's not legal.. yet.
+
+### Drives
+- Dandenong Ranges - Mountains and rainforests to the East of Melbourne. Checkout 'Skyhigh' for a view of the city at night (1 hour drive)
+- Great Ocean Rd - Drive along the ocean and beaches (2 hours out of Melbourne)
+- Yarra Valley - Go to the wineries and have lunch
 
 ## Tips and Tricks
+- People generally don't work on weekends. If you're asked to work extra-hours. Politely say no.
+- Melbourne has an alcohol drinking culture. Most people go to after-work drinks on Friday. Beer sizes come in pot/schooner/pint. Order a 'lemon, lime and bitters' if you don't drink.
+- Most things can be paid online. A local bank account helps. Major banks are: ANZ, Commonwealth, NAB, Wespac. Use the apps to transfer money for rent, electricity, gas, internet. They will give you a Visa/Mastercard debit card. Android/Applepay is supported in all stores except local shops that will insist on 'cash only'.
+- The local hardware store is called 'Bunnings'. Get all your lightbulbs, electrical cords, wash baskets and cleaning products here. Grab a sausage in bread on weekends near the entrance.
+- The department stores are David Jones and Myer. You will only find them in Shopping Centers.
+- Taxes are paid via the ATO (Australian Tax Office) after July 1st. You do this online. Ask your employer or tax-agent if you're unsure
+- You don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
 
+#Contribute
+Make a pull request with your insight to help other developers succeed!
