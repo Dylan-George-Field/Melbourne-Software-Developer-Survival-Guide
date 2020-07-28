@@ -3,7 +3,7 @@ A guide to get you started in the city of Melbourne, Australia
 ## Welcome to Melbourne
 Melbourne is wonderful. It's the cultural hub of Australia and is filled with events, arts, sports, nightlife and a vibrant software community. The city centre is called the CBD or 'central business district'. It's located on the Yarra river and will be your first point of interest.
 
-![Melbourne CBD Map](https://ibb.co/xMnrckB)
+![Melbourne CBD Map](https://i.ibb.co/7G30TfZ/CBD.png)
 
 ### Climate
 Tempratures range from 25-35C (77-95F) in Summer and 5-15C (41-60F) in Winter. Summer can bring extreme heat. Weather is tempremental and there is no snow.
@@ -54,7 +54,7 @@ A car or motorbike can be obtained from:
 - [Bikesales](https://www.bikesales.com.au/)
 
 ## Where to Stay
-A rule of thumb is housing is more expensive the closer you are to the city. A controversial rule of thumb is the best suburbs are on the  South-East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
+Housing is more expensive the closer you are to the city. A controversial rule is the best suburbs are on the South-East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
 
 ### Temporary
 Find your feet by living in the CBD and think about moving outwards to save money, more space or a better vibe.
