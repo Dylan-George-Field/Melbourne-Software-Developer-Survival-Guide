@@ -113,7 +113,7 @@ If you haven't found one already don't worry there's plenty of roles in software
 ### Meetups
 Most meetups are in the CBD after 5pm. There are plenty of like-minded individuals and recruiters at events who will help you. Plus there's free food, beers and you might learn something.
 
-## Workspaces
+## Free Workspaces
 Take advantage of these free workspaces
 
 ### Melbourne State Library
