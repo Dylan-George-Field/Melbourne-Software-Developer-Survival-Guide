@@ -1,116 +1,152 @@
 # Software Developer Survival Guide 🏕
-This guide will get you on your feet and prepare you to survive the urban wilderness.
+A guide to get you started in the city of Melbourne, Australia
 ## Welcome to Melbourne
-Melbourne is a wonderful place. The CBD (central business district) is where most of the action happens. The centre is around the Burke St/Swanston St and is 1 km around. 
+Melbourne is wonderful. It's the cultural hub of Australia and is filled with events, arts, sports, nightlife and a vibrant software community. The city centre is called the CBD or 'central business district'. It's located on the Yarra river and will be your first point of interest.
+
+![Melbourne CBD Map](https://ibb.co/xMnrckB)
+
 ### Climate
-Tempratures range from 0 - 40 degrees celsius. Know the time of year you'll arrive you or you'll either freeze or fry.
-### Clothing
-You may wear whatever you please in the CBD. The further out you go the more you want to dress like a local to avoid unwanted attention. Unless that's your thing ;)
-#### Workplace
-Most workplaces allow developers to wear casual clothes. The most basic form is jeans and a t-shirt (think Zuck) or any unrevealing top. Skirts not far above the knees. If it's your first day ask someone you know about appropriate dress. Be surprised if you're expected to wear 'buiness attire' like a suit and tie.
-#### Casual
+Tempratures range from 25-35C (77-95F) in Summer and 5-15C (41-60F) in Winter. Summer can bring extreme heat. Weather is tempremental and there is no snow.
+### Clothes
 Summer - Shorts and a t-shirt/tank top
-Winter - You need a coat, pants, wooly socks and maybe even thermals and gloves
+Winter -  Coat, pants, wooly socks
+
 ## Getting Around
 ### From the Airpot
-#### Tullamarine
-##### Taxi
-Use Uber or find a Taxi out front. I recommend a Uber for the guaranteed rates. The cars are generally nicer. It may cost $50 AUD.
-##### Skybus
-The bus is outside the arrival hall and will cost you around $20 each way. It takes you to Southern Cross Station. I recommend this option. Don't worry about your bags, no one will take them https://www.skybus.com.au
+There are two airports, Avalon or Tullamarine. Both have a public bus service called [Skybus](https://www.skybus.com.au/).
+
+| Airport      | Destination            | Distance |  Bus  | Uber  |
+|--------------|------------------------|----------|-------|-------|
+| Avalon       | Southern Cross Station | 1 hour   |  $25  |  $80  |
+| Tullamarine  | Southern Cross Station | 30 min   |  $20  |  $40  |
+
 ### Public Transport
+You need a [Myki card](https://www.ptv.vic.gov.au/tickets/myki). It's a pre-paid card you can get from a station or ticket machine. You must tap it 'on' and tap it 'off' when you disembark. You'll get fined if you don't have a valid one. Full fare is about $7 a day and cheaper for students.
+
+The network is confusing. Ask the staff for help to get to your destination.
+
 #### Trams
-Are free in the CBD! You don't need a card or anything. 
+Are free in the CBD! They follow set routes and are great to get around short distances.
+
 #### Trains
-This is the highest value way to get to outer suburbs. All trains run from the CBD. The main stations are:
+All of them go to the CBD and do a 'city loop'. It's the fastest way to outer suburbs.
+
+The main city stations are:
 - Flinders St Station
 - Southern Cross
 - Melbourne Central Station 
-Peak times can be a pain at 8am - 9am/5pm - 6pm weekdays. You'll comforably get a seat otherwise. Trains run 24 hours on weekends. Payment is made with a contactless 'Myki' card. Purchase one at the station under the 'Metro' sign, a machine or from 7-11's and convenience stores. The card costs you $7 for an adult and the same for a day's worth of rides. There are concessions (cheaper) for students.
 
-Avoid being alone late at night at the end-of-the-line. Unless it's Sanderingham.
+Trains run 24 hours on weekends.
+
 #### Buses
-You'll find these anywhere there's no rail. They suck until you get another form of transport
-#### Car/Motorbike
-You need a license and a registered vehicle. Go to Vicroads for information on it. We drive on the left hand side. You don't need insurance. If you have an international license get a permit. You will be pulled over.
+You'll find these anywhere there's no rail.
 
-Australian cars are the cheapest to run and maintain. Go to www.carsales.com/www.bikesales.com. Search for:
-- Ford Falcon
-- Holden Commodore
-- Mitsubishi Magna/380
-- Toyota Camry
-#### Bicycle
-If you live within 7km of the city this is the best, cleanest fastest and unsafe way to travel. Pickup a bike on Facebook Marketplace (via the app) for $150-$200. Get a bike lock or it will get stolen. Use lights at night and wear a helmet or you'll get a fine. Stick to bike lanes and watch for opening doors.
+### Bicycle
+Bikes are the best if you work in the city and live within 10km of it. They're a cheap, clean and somewhat unsafe mode of transport. You can get a bike off Facebook Marketplace for $150. You must wear a helmet.
 
 Beware of tram tracks.
-## Finding a place to stay
+### Car/Motorbike
+A valid license and registration are required from [Victroads](https://www.vicroads.vic.gov.au/).
+
+A car or motorbike can be obtained from:
+- Facebook Marketplace
+- [Carsales](https://www.carsales.com.au/)
+- [Bikesales](https://www.bikesales.com.au/)
+
+## Where to Stay
+A rule of thumb is housing is more expensive the closer you are to the city. A controversial rule of thumb is the best suburbs are on the  South-East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
+
 ### Temporary
-#### Airbnb
-This is your first entry. You have a bunch of options and budgets. You'll get a private room within 20 minutes of the CBD (city center) for the price of a hostel. You will likely share and if that's not your thing - pay more. Everyone will be friendly though and being with others will help you if it's your first time in the city and feeling anxious.
-#### Hostel
-You'll find plenty of backpackers in and around the CBD. This will be great to get to Meetups and work as most jobs and transport are centered here. You will share with others
-#### Hotel
-You're living in comfort. Melbourne has a bunch of options. Check Agoda or your favourite website.
-### Permanant
-Choose a place close to public transport a supermarket or shopping center. A controversial rule of thumb is the best suburbs work from the East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
+Find your feet by living in the CBD and think about moving outwards to save money, more space or a better vibe.
+- Airbnb
+- Hotel
+- Hostel
 
-#### Sharehouse
-This is the most cost effective way to live. Jump on www.flatmates.com. I recommend buying their $35 2-month pack. It sounds like a ripoff but it'll get you ahead. They have a free offering if you're cheap otherwise use facebook marketplace. Be wary of dodgey housemates/ads. Always inspect the property and meet the housemates. You should find a private bedroom within 10km (inner-city) for around $1000/month. Some people take bonds. Go on the lease if you want to be safe. Avoid rough neighbourhoods.
+### Rent
+A rental can be found on [www.realestate.com.au/rent/](https://www.realestate.com.au/rent/).
 
-#### Rent
-Jump on www.realestate.com.au. This is a great option if you have a family, friend to share or just want to go it alone. You're guaranteed no bullshit. The agent will annoy you but hardly as much as a bad housemate. It will cost you $350+/month for a decent one-bedroom apartment. 
+| Type                | Cost/week | Utilities | 
+|---------------------|-----------|-----------|
+| 1-Bedroom Apartment | $350      | $20       |
+| 2-Bedroom Townhouse | $600      | $40       |
+| 3-Bedroom House     | $800      | $50       |
+
+### Share
+A sharehouse or housemates can be found on [www.flatmates.com.au](https://flatmates.com.au/).
+
+The average cost for a single private room is $200-$300/week including bills.
 
 #### Locations
-Inner-city suburbs are recommended for singles within 10km of the CBD. Go further out if you have a family.
-- CBD (small rooms, convenient)
-- Docklands (new, windy, no atmosphere)
-- Richmond (football types)
-- South Yarra (fashion/party)
-- Fitzroy (music/art)
-- North Melbourne (Left wing)
-- South Melbourne (Right wing)
-- St. Kilda (all sorts/beach)
-- Everything else becomes suburbia
+Inner-city suburbs are recommended for singles within 10km of the CBD and further out if you have a family.
 
-## Finding a Job
-If you haven't found one already don't worry. You're a software developer. There's plenty of roles and not enough developers.
-### Software Companies
-- REA
-- Carsales
-- Envato
-- Zendesk
-- There's plenty of agencies and companies 
-### Websites
-The main job boards are:
-- Seek
-- Indeed
+| Suburb              | Lifestyle                             | 
+|---------------------|---------------------------------------|
+| CBD                 | Newcomers, small rooms, convenient    |
+| Docklands           | New apartments, windy, no atmosphere  | 
+| Richmond            | Football, sports types, grassroots    |
+| South Yarra         | Fashion, party                        |
+| Fitzroy             | Hip, mustic, arts                     |
+| North Melbourne     | Left-wing                             |
+| South Melbourne     | Right-wing                            |
+| St. Kilda           | All sorts, Beach, vibes               |
+| Footscray           | Rough and Tumble                      |
+| Everything else     | Suburbia                              |
+
+### Utilities
+Names of big companies to get you connected.
+
+| Banks        | Elec/Gas         | Phone       | Internet | 
+|--------------|------------------|-------------|----------|
+| ANZ          | AGL              | ALDI Mobile | TPG      |
+| Commonwealth | Energy Australia | Optus       | Optus    |
+| NAB          | Origin           | Telstra     | Telstra  |
+| Wespac       | Red Energy       | Vodafone    | iinet    |
+
+
+## Find a Job
+If you haven't found one already don't worry there's plenty of roles in software 😉
+
+### Websites/Job boards
+- [www.seek.com.au](https://www.seek.com.au/)
+- [au.indeed.com](https://au.indeed.com/)
+
 ### Meetups
-Hands down the best place to start your search. This is where you'll find like-minded individuals and recruiters. Talk to everyone. I guarantee you will find someone who is looking for a developer or will find someone/company who does. Plus you get free food, beers and you might learn something. Most meetups are in the CBD after 5pm.
-### Linkedin
-Try your luck and message around. You'll get a couple of messages a week with a good profile and the flag 'let recruiters know I'm looking for jobs'. You'll be flooded. My sisters a recruiter. They all start here. You probably won't find your dream job from a cold messaging recuiter on linkedin.
-### Company Career Boards
-Look in the sky and find the names of the major companies. Search their career pages.
+Most meetups are in the CBD after 5pm. There are plenty of like-minded individuals and recruiters at events who will help you. Plus there's free food, beers and you might learn something.
 
-### Study/Workspaces
-You can pay for co-working space or take advantage of free offices everywhere.
-#### Melbourne State Library
-Free desks, electricity and wifi. Go to the 'dome' for a beautiful atmosphere. There's plenty of books to read and artifacts to look at. A coffee shop is at the end. It's the perfect free study spot. Open 10am - 9pm (Mon - Thrus), 10am - 6pm all others.
-#### Universities
-They're catered for students. Desks, electricity galore as well as access to the technical libraries. You can't rent as a public member but you can definitely pose as a student and use the facilites. RMIT is in the city. Walk right in. They're scattered throughout the city. Notable mentions: Melbourne Uni, Monash University, Swinburne, Deakin.
+## Workspaces
+Take advantage of these free workspaces
+
+### Melbourne State Library
+- Heart of the CBD
+- Super fast Wifi
+- Desks with electricity everywhere
+- Cool stuff to look at
+- Coffee shop
+
+Open 10am - 9pm (Mon - Thrus), 10am - 6pm all others.
+
+### Universities
+- Heaps of desks
+- electricity
+- Technical libraries
+
+Melbourne Uni, Monash Uni, Swinburne, Deakin.
+
 #### Coffee Shops/Café
-Melbourne-ites are renowned coffee snobs. Embrace the culture, buy a coffee and ask if they have free wifi. Use your phone to tether/hot spot if they don't and sit there for hours. No one cares as long as the shop isn't full or it's Starbucks.
+Melbourne is known for coffee. Embrace it and sit down for a local brew. I guarantee you'll be back.
+
 #### McDonalds
-Worst case scenario. Free wifi and questionable food.
+Worst case scenario. Free wifi, questionable food.
 
 ## Places to see and Do
 ### Sport
-Melbourne is the self-proclaimed sporting capital. The sports precinct near the suburb of Richmond hosts most events. A 20-minute walk from the CBD.
+Melbourne is the sporting capital.
 - Australian Open - Tennis
-- Aussie Rules Football (recommened) - Unique to Australia, facepaced and exciting
+- Aussie Rules Football (AFL) - Unique to Australia, facepaced, exciting and cheap. Highly recommended.
 - Formula 1 Grand Prix - Motor racing
 - Melbourne Cup - Horse Racing
-- International Cricket - Depends who's touring
-- MotoGP Philip Island - Motor racing
+- Cricket - See who's touring in Summer
+- MotoGP Philip Island - Motorbike racing
 - A-League Soccer - Football
 - Rugby - Football
 
@@ -119,9 +155,9 @@ Checkout the:
 - National Gallery of Victoria - International tours such as King Tut, Impressionists.
 - Melbourne Comedy Festival - Once a year
 - Melbourne Film Festival - Once a year
-- Theater - Broadway such as the Lion King/Book of Mormon
-- Dance - Ballet opera
-- Live Music - A plethora or international artists and local musicians. Mostly found in Fitzroy
+- Theater - Broadways tour such as the Lion King/Book of Mormon/Harry Potter
+- Dance, Ballet, opera
+- Live Music - Heaps of local and international artists. Mostly found in Fitzroy.
 - Street art and exhibitions - Hosier lane
 
 ### Exhibitions
@@ -129,15 +165,15 @@ Checkout the:
 - Royal Exhibition Center
 
 ### Party
-Weekends provide the best environment for transport and venues open. Most places will be closed by 10pm on a weekday. You will find the odd club catering to uni students on a Tuesday/Thursday night and possibly Wednesday.
+Nightlife comes alive over the weeked. It's even bustling on a Tuesday/Thursday night and possibly Wednesday too.
 - CBD
 - Chapel St
-- Fitzroy (Johnson St/Brunswick Rd)
-- St. Kilda (Fitzroy St/Acland St)
-- Swan St - Richmond
-- Casino - Open 24/7, seedy and expensive
+- Fitzroy
+- St. Kilda
+- Richmond
+- Casino - Open 24/7, is seedy and expensive
 
-It's illegal to drink alcohol on the street! Cops aren't friendly too it either. You may smoke a cigarette near them. Not weed. It's not legal.. yet.
+It's illegal to drink alcohol on the street. Weed is illegal... Still.
 
 ### Drives
 - Dandenong Ranges - Mountains and rainforests to the East of Melbourne. Checkout 'Skyhigh' for a view of the city at night (1 hour drive)
@@ -145,15 +181,18 @@ It's illegal to drink alcohol on the street! Cops aren't friendly too it either.
 - Yarra Valley - Go to the wineries and have lunch
 
 ## Tips and Tricks
-- People generally don't work on weekends. If you're asked to work extra-hours. Politely say no.
-- Melbourne has an alcohol drinking culture. Most people go to after-work drinks on Friday. Beer sizes come in pot/schooner/pint. Order a 'lemon, lime and bitters' if you don't drink.
-- Most things can be paid online. A local bank account helps. Major banks are: ANZ, Commonwealth, NAB, Wespac. Use the apps to transfer money for rent, electricity, gas, internet. They will give you a Visa/Mastercard debit card. Android/Applepay is supported in all stores except local shops that will insist on 'cash only'.
-- The local hardware store is called 'Bunnings'. Get all your lightbulbs, electrical cords, wash baskets and cleaning products here. Grab a sausage in bread on weekends near the entrance.
-- The department stores are David Jones and Myer. You will only find them in Shopping Centers.
-- Taxes are paid via the ATO (Australian Tax Office) after July 1st. You do this online. Ask your employer or tax-agent if you're unsure
-- You don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
+- People don't work weekends and only within their contracted 9-5 hours. Refuse unreasonable work outside your contracted hours. You are protected by the [Fair Work Ombudsman](https://www.fairwork.gov.au/).
+- Melbourne has an alcohol drinking culture. Social after-work drinks are on Friday. Beer sizes come in pot/schooner/pint.
+- Most things are paid online.
+- The local hardware store is called 'Bunnings'.
+- The major department stores are Myre, David Jones, Kmart & Big W
+- Tax time is July 1st. You do it online through the Australian Tax Office (ATO). Ask your employer or tax-agent if you're unsure.
+- People don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
+
+## Emergancies
+Dial "000" for all police, fire and ambulance emergancies  🚨
 
 # Contribute
 Make a pull request to add your own unique insight to help other developers succeed.
 
-Better yet, fork it and create your own! 👏
+Better yet, fork it and create one for your city! 👏
