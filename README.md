@@ -56,6 +56,22 @@ A car or motorbike can be obtained from:
 ## Where to Stay
 Housing is more expensive the closer you are to the city. A controversial rule is the best suburbs are on the South-East side of the bay and generally degrade running counter-clockwise in a circle around the CBD.
 
+### Locations
+Inner-city suburbs are recommended for singles within 10km of the CBD and further out if you have a family.
+
+| Suburb              | Lifestyle                             | 
+|---------------------|---------------------------------------|
+| CBD                 | Newcomers, small rooms, convenient    |
+| Docklands           | New apartments, windy, no atmosphere  | 
+| Richmond            | Football, sports types, grassroots    |
+| South Yarra         | Fashion, party                        |
+| Fitzroy             | Hip, mustic, arts                     |
+| North Melbourne     | Left-wing                             |
+| South Melbourne     | Right-wing                            |
+| St. Kilda           | All sorts, Beach, vibes               |
+| Footscray           | Rough and Tumble                      |
+| Everything else     | Suburbia                              |
+
 ### Temporary
 Find your feet by living in the CBD and think about moving outwards to save money, more space or a better vibe.
 - Airbnb
@@ -75,22 +91,6 @@ A rental can be found on [www.realestate.com.au/rent/](https://www.realestate.co
 A sharehouse or housemates can be found on [www.flatmates.com.au](https://flatmates.com.au/).
 
 The average cost for a single private room is $200-$300/week including bills.
-
-#### Locations
-Inner-city suburbs are recommended for singles within 10km of the CBD and further out if you have a family.
-
-| Suburb              | Lifestyle                             | 
-|---------------------|---------------------------------------|
-| CBD                 | Newcomers, small rooms, convenient    |
-| Docklands           | New apartments, windy, no atmosphere  | 
-| Richmond            | Football, sports types, grassroots    |
-| South Yarra         | Fashion, party                        |
-| Fitzroy             | Hip, mustic, arts                     |
-| North Melbourne     | Left-wing                             |
-| South Melbourne     | Right-wing                            |
-| St. Kilda           | All sorts, Beach, vibes               |
-| Footscray           | Rough and Tumble                      |
-| Everything else     | Suburbia                              |
 
 ### Utilities
 Names of big companies to get you connected.
@@ -138,7 +138,7 @@ Melbourne is known for coffee. Embrace it and sit down for a local brew. I guara
 #### McDonalds
 Worst case scenario. Free wifi, questionable food.
 
-## Places to see and Do
+## Things to do
 ### Sport
 Melbourne is the sporting capital.
 - Australian Open - Tennis
@@ -192,7 +192,7 @@ It's illegal to drink alcohol on the street. Weed is illegal... Still.
 ## Emergancies
 Dial "000" for all police, fire and ambulance emergancies  🚨
 
-# Contribute
+## Contribute
 Make a pull request to add your own unique insight to help other developers succeed.
 
 Better yet, fork it and create one for your city! 👏
