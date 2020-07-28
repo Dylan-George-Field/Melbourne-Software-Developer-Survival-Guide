@@ -10,6 +10,11 @@ Tempratures range from 25-35C (77-95F) in Summer and 5-15C (41-60F) in Winter. S
 
 ### Clothes
 Pack a shirt, tank-top, shorts or skirt for Summer. A coat, pants and woolly socks for Winter.
+| Type        | Clothes                     |
+|------------ |-----------------------------|
+| Summer      | Dress/Skirt/Tank-top        |
+| Winter      | Coat/Pants/Woolly Socks     |
+| Business    | Smart Casual/Suit if unsure |
 
 ## Getting Around
 ### From the Airpot
