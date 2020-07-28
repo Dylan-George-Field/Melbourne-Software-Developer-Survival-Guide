@@ -1,15 +1,15 @@
 # Software Developer Survival Guide 🏕
-A guide to get you started in the city of Melbourne, Australia
+A guide to get you started in Melbourne, Australia.
 ## Welcome to Melbourne
 Melbourne is wonderful. It's the cultural hub of Australia and is filled with events, arts, sports, nightlife and a vibrant software community. The city centre is called the CBD or 'central business district'. It's located on the Yarra river and will be your first point of interest.
 
 ![Melbourne CBD Map](https://i.ibb.co/7G30TfZ/CBD.png)
 
 ### Climate
-Tempratures range from 25-35C (77-95F) in Summer and 5-15C (41-60F) in Winter. Summer can bring extreme heat. Weather is tempremental and there is no snow.
+Tempratures range from 25-35C (77-95F) in Summer and 5-15C (41-60F) in Winter. Summer can bring extreme heat. Weather is tempremental. It can be sunny one moment then cold and wet the next. It won't snow here.
+
 ### Clothes
-Summer - Shorts and a t-shirt/tank top
-Winter -  Coat, pants, wooly socks
+Pack a shirt, tank-top, shorts or skirt for Summer. A coat, pants and woolly socks for Winter.
 
 ## Getting Around
 ### From the Airpot
@@ -190,7 +190,7 @@ It's illegal to drink alcohol on the street. Weed is illegal... Still.
 - People don't work on public holidays. You're entitled to 4 weeks paid leave each year and 10 paid sick days.
 
 ## Emergancies
-Dial "000" for all police, fire and ambulance emergancies  🚨
+Dial "000" for all police, fire and ambulance emergencies  🚨
 
 ## Contribute
 Make a pull request to add your own unique insight to help other developers succeed.
